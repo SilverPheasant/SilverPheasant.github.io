@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.baidu.com">
+  <a href="https://apps.apple.com/us/app/solitaire-fish-card-games/id6744386799">
     <img src="https://SilverPheasant.github.io/Texture/SolitaireFish/sf.png" 
          width="100%" 
          style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
