@@ -1,4 +1,4 @@
-## Welcome to SilverPheasant
+## Welcome to SilverPheasants
 
 
 <div align="center">
