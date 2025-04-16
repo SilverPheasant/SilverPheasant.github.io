@@ -1,6 +1,10 @@
 ## Welcome to SilverPheasants
 
-Welcome to SilverPheasants
+<div align="center">
+  <h1>Download Solitaire Games</h1>
+  <hr width="50%"/>
+</div>
+
 <div align="center">
   <a href="https://www.baidu.com">
     <img src="https://SilverPheasant.github.io/Texture/SolitaireFish/sf.png" 
